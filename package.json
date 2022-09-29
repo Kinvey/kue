@@ -1,6 +1,6 @@
 {
   "name": "@progresskinvey/kue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Feature rich priority job queue backed by redis",
   "homepage": "http://automattic.github.io/kue/",
   "keywords": [
