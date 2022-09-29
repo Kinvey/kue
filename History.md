@@ -1,3 +1,8 @@
+1.0.1 / 2022-09-29
+===================
+
+* Updated redis to 3.1.1 to address security vulnerabilites
+
 0.11.7 / 2021-04-12
 ===================
 
